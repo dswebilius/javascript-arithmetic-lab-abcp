@@ -17,7 +17,7 @@ function dec (n) {
   return (n -= 1)
 }
 var base = 10
-var n = 0
+var n = 9000
 function makeInt(n, base) {
     return parseInt(n, base)
 }
