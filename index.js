@@ -20,4 +20,5 @@ var base = 10
 function makeInt(n, base) {
     return parseInt(n, base)
 }
+makeInt('0')
 
